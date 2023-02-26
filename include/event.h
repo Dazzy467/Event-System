@@ -9,7 +9,8 @@ enum class EventType
 {
     EVENT_MOUSE_ANY,
     EVENT_MOUSE_LCLICK,
-    EVENT_ANY_THING
+    EVENT_ANY_THING,
+    EVENT_DELETE
 };
 
 class event{
